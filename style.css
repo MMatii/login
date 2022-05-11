@@ -16,7 +16,7 @@ body{
 }
 h2{
     color:#fff;
-    background: #1c62a9;
+    /* background: #1c62a9; */
 }
 .container{
     display: flex;
